@@ -1,0 +1,11 @@
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\bin\Debug\netcoreapp2.0\FusionAPI.deps.json
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\bin\Debug\netcoreapp2.0\FusionAPI.runtimeconfig.json
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\bin\Debug\netcoreapp2.0\FusionAPI.runtimeconfig.dev.json
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\bin\Debug\netcoreapp2.0\FusionAPI.dll
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\obj\Debug\netcoreapp2.0\FusionAPI.csprojAssemblyReference.cache
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\obj\Debug\netcoreapp2.0\FusionAPI.csproj.CoreCompileInputs.cache
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\obj\Debug\netcoreapp2.0\FusionAPI.AssemblyInfoInputs.cache
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\obj\Debug\netcoreapp2.0\FusionAPI.AssemblyInfo.cs
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\bin\Debug\netcoreapp2.0\FusionAPI.pdb
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\obj\Debug\netcoreapp2.0\FusionAPI.dll
+G:\FusionCDS\Projects\API\FusionAPI\FusionAPI\obj\Debug\netcoreapp2.0\FusionAPI.pdb
