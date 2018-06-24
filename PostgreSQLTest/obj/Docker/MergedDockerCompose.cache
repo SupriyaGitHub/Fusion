@@ -1,0 +1,11 @@
+services:
+  postgresqltest:
+    build:
+      context: G:\POC\PostgreSQLTest\PostgreSQLTest
+      dockerfile: PostgreSQLTest/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: ' postgresqltest'
+    ports:
+    - target: 80
+version: '3.4'

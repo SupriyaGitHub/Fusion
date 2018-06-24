@@ -1,0 +1,1 @@
+G:\POC\PostgreSQLTest\PostgreSQLTest\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

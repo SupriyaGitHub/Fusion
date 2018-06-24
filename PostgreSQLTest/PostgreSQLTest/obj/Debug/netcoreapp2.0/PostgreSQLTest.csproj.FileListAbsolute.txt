@@ -1,0 +1,10 @@
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\bin\Debug\netcoreapp2.0\PostgreSQLTest.deps.json
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\bin\Debug\netcoreapp2.0\PostgreSQLTest.runtimeconfig.json
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\bin\Debug\netcoreapp2.0\PostgreSQLTest.runtimeconfig.dev.json
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\bin\Debug\netcoreapp2.0\PostgreSQLTest.dll
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\bin\Debug\netcoreapp2.0\PostgreSQLTest.pdb
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\obj\Debug\netcoreapp2.0\PostgreSQLTest.csproj.CoreCompileInputs.cache
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\obj\Debug\netcoreapp2.0\PostgreSQLTest.AssemblyInfoInputs.cache
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\obj\Debug\netcoreapp2.0\PostgreSQLTest.AssemblyInfo.cs
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\obj\Debug\netcoreapp2.0\PostgreSQLTest.dll
+G:\POC\PostgreSQLTest\PostgreSQLTest\PostgreSQLTest\obj\Debug\netcoreapp2.0\PostgreSQLTest.pdb
